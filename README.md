@@ -1,1 +1,1 @@
-# modified_retinex
+# Image Enhancement using Retinex-Net Algorithm with Attention Mechanisms
