@@ -12,3 +12,5 @@ The existing Retinex-Net algorithm has been difficulty distinguishing between re
 1. To design the attention mechanism of Mechanism-Decom and Mechanism-Enhance.
 2. To analyze the effectiveness of incorporating an attention mechanism into Retinex-Net algorithm.
 3. To compare the performance of tailored mechanisms using quantitative metrics 
+
+<br><img src="picture/framework.png" width="200">  
