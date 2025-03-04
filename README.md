@@ -18,4 +18,4 @@ The existing Retinex-Net algorithm has been difficulty distinguishing between re
 ## Datasets
 The dataset can be downloaded from the following links:
 <br>1. LOw Light paired dataset (LOL):<a href="https://drive.google.com/file/d/157bjO1_cFuSd0HWDUuAmcHRJDVyWpOxB/view"> Google Drive </a> 
-<br>2. Normal Low dataset (NOL):<a href="https://drive.google.com/file/d/1FJm6FxgeUPedN4exn5nIw94A2gp6Xs6d/view?usp=drive_link"> Google Drive </a> 
+<br>2. Normal Low dataset (NOL):<a href="https://drive.google.com/file/d/1DH416koWt-RQcoX009wIh-koycO0vUyF/view?usp=sharing"> Google Drive </a> 
